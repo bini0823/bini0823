@@ -1,16 +1,26 @@
-### Hi there 👋
+<div align="center">
+  
+📧 **Email : 4ever960823@gmail.com**
+<br>
+🏠 **Homepage : https://bini0823.github.io/react-resume/**
+<br>
+📝 **Notion : https://www.notion.so/1b8207f35c5442799105d712e5c20e4a**
+<br>
+  
+### Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bini0823&show_icons=true&count_private=true&theme=radical)
+<br>
+  
+### Algorithm
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bini0823)](https://solved.ac/bini0823)  
+<br>
 
-<!--
-**bini0823/bini0823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+###
+
+
+
