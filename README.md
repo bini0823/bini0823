@@ -8,7 +8,7 @@
 <br>
   
 ### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bini0823&show_icons=true&count_private=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinny-hyeon&show_icons=true&count_private=true&theme=radical)
 <br>
   
 <br>
